@@ -59,10 +59,10 @@ export default function Home() {
 
       {/* Links */}
       <div className="mt-16 flex flex-wrap items-center justify-center gap-6 text-sm text-white/40">
-        <a href="https://x.com/VswarmAi" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+        <a href="https://x.com/SentienLabs" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
           𝕏 Twitter
         </a>
-        <a href="https://github.com/vswarm-ai" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+        <a href="https://github.com/SentienLabs" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
           GitHub
         </a>
         <a href="https://t.me/VerdictSwarmBot" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
